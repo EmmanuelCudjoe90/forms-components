@@ -1,0 +1,11 @@
+firstName
+lastName
+department
+country
+jobTitle
+registrationCode
+industryPreference
+password
+confirmPassword
+agreeToMarketingMaterials
+termsAndConditions
